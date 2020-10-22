@@ -1,4 +1,5 @@
 #CODEGYM: Đề Thi Thực Hành 3
+
 Để quản lý các biên lai thu tiền điện, người ta cần các thông tin như sau:
 - Với mỗi biên lai, có các thông tin sau: **thông tin về hộ sử dụng điện**, **chỉ số cũ**, **chỉ số mới**, **số tiền phải trả** của mỗi hộ sử dụng điện
 - Các thông tin riêng của mỗi hộ sử dụng điện gồm: Họ tên chủ hộ, số nhà, mã số công tơ của hộ dân sử dụng điện.
